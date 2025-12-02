@@ -1,8 +1,16 @@
 body {
+    background-image: url('images/7k7k.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     margin: 16px; 
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.4;
     color: #222;
+    display: flex; /* Use Flexbox */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    height: 100vh; /* Full height of the viewport */
 }   
 
 a:link {
