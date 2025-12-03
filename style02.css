@@ -1,0 +1,24 @@
+body {
+  background-image: url('images/chinapress.png');
+  background-repeat: repeat;
+  background-size: contain;
+  height: 400vh; 
+  overflow-y: auto;    
+}   
+
+.verse {
+    margin-bottom: 15px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.censor {
+  background-color: black;
+  color: black;
+}
+
+.censor:hover {
+  background-color: black;
+  color: rgb(255, 0, 255);
+}
+
