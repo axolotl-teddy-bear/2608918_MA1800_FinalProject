@@ -7,9 +7,32 @@ body {
 }   
 
 .verse {
-    margin-bottom: 15px;
-    line-height: 1.6;
-    text-align: justify;
+  font-size: 20px;
+}
+
+a:link {
+  font-size: 20px;
+  text-decoration: none; 
+  color: black;
+}
+
+a:active {
+  font-size: 20px;
+  text-decoration: none; 
+  color: black;
+}
+
+a:visited {
+  font-size: 20px;
+  text-decoration: none; 
+  color: black;
+}
+
+a:hover {
+  font-size: 20px;
+  text-decoration: underline; 
+  color: rgb(255, 0, 255);
+  opacity: 1;
 }
 
 .censor {
