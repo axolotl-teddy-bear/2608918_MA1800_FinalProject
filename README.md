@@ -10,5 +10,8 @@ On the first page of the website, there are 3 hidden links that only appear when
 Challanges.......
 
 --------------------Summary of case studies--------------------
-1. 
+1) https://blacknetart.com/keepingupappearances.html
 
+keepingupappearences is a website where sinister sections of a story are hiudden until the user hovers thier cursor over a specific line to reveal the truth. I really like how the user has to discover the finer details of the story on thier own accord instead of the website leading the user along the narrative. Even though the phrases don't link to anything, the element of ‘discovery’ almost makes me feel like i'm peeling back on onion. this is the main case study that influenced me to involve cencorship in my project in the first place. 
+
+2) 
