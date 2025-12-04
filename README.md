@@ -1,2 +1,3 @@
-# ma1800-web-art-project
+# ma1800-autumn-project
 
+https://axolotl-teddy-bear.github.io/ma1800-autumn-project/
