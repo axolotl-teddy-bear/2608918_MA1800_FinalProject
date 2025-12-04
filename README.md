@@ -27,4 +27,6 @@ likepearls.com is the main website that inspired page 1 of my project, where a b
 
 --------------------Reflection--------------------
 
-if I had more time ans resources, I would definately add even more webpages to add to this project. 
+if I had more time ans resources, I would definately add even more webpages to this project. with 7 pages only, the experience could end very quickly, and the sense of being lost in the website might not be developed enough. furthermore, I also want to maybe add more audio experiences to the websites. 
+
+--------------------Sources cited--------------------
