@@ -1,6 +1,6 @@
-# ma1800-autumn-project
+# 2608918_MA1800_FinalProject
 
-https://axolotl-teddy-bear.github.io/ma1800-autumn-project/
+https://axolotl-teddy-bear.github.io/2608918_MA1800_FinalProject/
 
 --------------------Description--------------------
 
