@@ -8,7 +8,16 @@ This project is inspired by my early experineces with the internet, along with m
 
 On the first page of the website, there are 3 hidden links that only appear when the cursor hovers over them. Through those links, the users goes throgh a journey of discovery through the website, almost like walking through a maze. there is no final destination, but the point lies more in seeing how much you can discover. there are 7 pages in total including the index page. 
 
-Challanges.......
+page1: this page is a messy college of chinese meme culture, and the populoar gifs that can be seen in social spaces. all gifs were found on a chinese diy gif gallery, and eveything has been linked below. special images include the photo of a desk placed in the middle, which is a photo of the desktop i used to browse the web on when i was a child. It was my grandma's desktop, and the location of the photo as well as its context adds more depth to the site, in my opinion
+
+page2: this page consists of a poem i extracted from the book "journey to the west", which is one of the most significant pieces of literature in chinese culture. Based off of my research on censorship, I blacked out eveything which would be deemed innopropriate on the chinese web today. this page is more about the censorship of information on the chinese web and how it eats away at our own culture and information. Furthermore, the background is a pixelated screenshot I took of a 2010s version of chinadaily.com, which also furthers the message on how historical literary works like "journey to the west" and contemprary media like news sources is effected by mass censorship. 
+
+page3: this page focuses on the role of Tencent on the web ans how it takes up a major role in chinese media. similar to a monopoly, tencent owns most media spaces on the web. hence, i thought it would be re;event fro me to include it on this project, especially considering thier long history of 'ruling' the majority of the web in china. 
+
+page4: this page's background is an altered error 404 page i found on google. I purposefuly made the image glitchy and unpleaseent to look at, imspired by jodi.org--more information below. Moreover, I also made a piece of pixel art based off of "CERNET", the network structure behind the web in china. I thought this would be a great way to represent the physical structures of the chiense internet in an artistic way. 
+
+page5: this final page is composed of 2 images i made inspired by the iconic silk screen print of marylin monroe by andy warhol. to do this, I altered images of winnie the pooh and mao ze dong digitally, filling certain sections of the images with bright and saturated colors that clash with one-another. this page heavily references the controversy surrounding winnie the pooh a couple years ago, that ultimately lead to the cartoon character being banned on the chinese web for a period of time. According to research and personal experience, winnie the pooh was said to look like the leader of china at the time. Hence, the government took action to ban the character altogether on thier internet. to strengthen my point, I made a time limit so that you would not be able to stay on this page for longer the half a second, demonsatrting the both frustrating ans oppresive nature of censored material on the web. 
+
 
 --------------------Summary of case studies--------------------
 1) https://blacknetart.com/keepingupappearances.html
